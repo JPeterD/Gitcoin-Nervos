@@ -1,6 +1,6 @@
 # Task 3 - Issue A Smart Contract Call To The Deployed Smart Contract
 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
-![]()
+![](Call.png)
 
 2. The transaction hash from the console output (in text format).
 ```
