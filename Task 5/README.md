@@ -1,6 +1,6 @@
 # Task 5 - Deploy The ERC20 Proxy Contract For The Deposited SUDT
 ---
-## 1) Screenshoot of Deployment
+## 1) Screenshot of Deployment
 ![](./erc20.png)
 ---
 ## 2)Address of ERC20 Proxy Contract
