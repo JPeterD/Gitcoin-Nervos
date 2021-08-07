@@ -1,7 +1,7 @@
 # Task 6 - Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 ---
 ## 1) Screenshot of Output after Deposit Receiver Generation
-![]()
+![](./generate.png)
 ---
 ## 2)Deposit Receiver Address
 ```
