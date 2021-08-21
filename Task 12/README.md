@@ -22,7 +22,7 @@ Now you would like to search for an exisiting Ethereum DApp you would like to po
 
 Once you have found or created the DApp you would like to port over you can now clone its repository.
 
-In our case lets clone this Sample application here:
+In our case lets clone my Sample application here:
 ```
 git clone https://github.com/JPeterD/SampleDapp
 ````
