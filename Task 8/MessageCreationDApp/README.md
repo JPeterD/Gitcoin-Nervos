@@ -1,5 +1,4 @@
-# Blockchain workshop
-
+# Message Creation DApp
 Start UI:
 
 ```
