@@ -17,4 +17,4 @@
 ```
 ---
 ## 3) Github Link of Repo with Force Bridge support:
-https://github.com/JPeterD/Gitcoin-Nervos/tree/main/Task%208/MessageCreationDapp
+https://github.com/JPeterD/Gitcoin-Nervos/tree/main/Task%208/MessageCreationDApp
