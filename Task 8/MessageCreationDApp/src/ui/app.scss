@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.rotating-icon {
+    display: inline-block;
+    animation: spin 1s infinite linear;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes twist-up {
+    to {
+        transform: rotateX(360deg);
+    }
+}
