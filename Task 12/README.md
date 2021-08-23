@@ -118,7 +118,21 @@ useEffect(() => {
 ```
 
 ---
-# 7) Display your DApp
+# 7) Modifying Front-End
+Now you are finished with your back-end, depending on your DApp now you can work on adding all of it to the front-end. This all depends on your stack and there are various ways you can implement it on the front end.
+You can check out ```https://github.com/JPeterD/SampleDapp/blob/main/src/ui/app.tsx``` to view my DApp's front-end.
+You can see implementations such as 
+```
+<hr />
+            Your ETH address: <b>{accounts?.[0]}</b>
+            <br />
+            <br />
+            Your Polyjuice address: <b>{polyjuiceAddress || ' - '}</b>
+```
+So it would be up to you how you would go about implementing all the various elements.
+
+---
+# 8) Display your DApp
 Now you have finished the porting! You can now traverse to the DApp's directory and run the following commands:
 ```
 yarn
